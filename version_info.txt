@@ -1,0 +1,12 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(filevers=(1, 0, 0, 0), prodvers=(1, 0, 0, 0)),
+  kids=[
+    StringFileInfo([StringTable('040904B0', [
+      StringStruct('FileDescription', 'PDF Splitter'),
+      StringStruct('FileVersion', '1.0.0'),
+      StringStruct('ProductName', 'PDF Splitter'),
+      StringStruct('ProductVersion', '1.0.0'),
+      StringStruct('OriginalFilename', 'PDF-Splitter.exe')])]),
+    VarFileInfo([VarStruct('Translation', [1033, 1200])])
+  ]
+)
