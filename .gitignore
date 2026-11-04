@@ -1,6 +1,3 @@
-__pycache__/
-*.pyc
-build/
-dist/
-.venv/
-.pytest_cache/
+/target
+*.pdf
+!tests/fixtures/*.pdf
